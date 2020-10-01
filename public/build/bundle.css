@@ -1,0 +1,12 @@
+main.svelte-15uilgi{max-width:960px;margin:40px auto}
+form.svelte-wzarnc{width:400px;margin:0 auto;text-align:center}.form-field.svelte-wzarnc{margin:18px auto}input.svelte-wzarnc{width:100%;border-radius:6px}label.svelte-wzarnc{margin:10px auto ;text-align:left}.error.svelte-wzarnc{font-weight:bold;font-size:12px;color:#d91b42}
+footer.svelte-5s40gp{padding:40px;text-align:center}.copyright.svelte-5s40gp{color:#aaa;font-size:14px;display:inline-block;padding:20px;border-top:1px solid #ddd}
+header.svelte-4n5jzi{background:#f7f7f7;padding:20px}h1.svelte-4n5jzi{margin:0;text-align:center}img.svelte-4n5jzi{max-width:180px }
+h3.svelte-gwu4uy{margin:0 auto;color:#555}p.svelte-gwu4uy{margin-top:6px;font-size:14px;color:#aaa;margin-bottom:30px}.answer.svelte-gwu4uy{background:#fafafa;cursor:pointer;margin:10px auto;position:relative}.answer.svelte-gwu4uy:hover{opacity:0.6}span.svelte-gwu4uy{display:inline-block;padding:10px 20px}.percent.svelte-gwu4uy{height:100%;position:absolute;box-sizing:border-box}.percent-a.svelte-gwu4uy{border-left:4px solid #d91b42 ;background:rgba(217,27,66,0.2)}.percent-b.svelte-gwu4uy{border-left:4px solid #45c496 ;background:rgba(69,196,150,0.2)}.delete.svelte-gwu4uy{margin-top:30px;text-align:center}
+.poll-list.svelte-1ag5eko{display:grid;grid-template-columns:1fr 1fr;grid-gap:20px }
+button.svelte-15eorxu{border:0;cursor:pointer;border-radius:6px;padding:8px 12px;font-weight:bold;box-shadow:1px 2px 3px rgba(0,0,0,0.2)}.primary.svelte-15eorxu{background:#d91b42;color:white}.secondary.svelte-15eorxu{background:#45c496;color:white}.flat.svelte-15eorxu{box-shadow:none}
+.card.svelte-1p81zjf{background:#fff;padding:20px;border-radius:6px;box-shadow:0px 2px 4px rgba(0,0,0,0.1) inset,
+        0px 2px 4px rgba(128, 125, 125, 0.096) inset}
+ul.svelte-19aka9s{display:flex;justify-content:center;padding:0;list-style-type:none}li.svelte-19aka9s{margin:0 16px;font-size:18px;color:#555;cursor:pointer}.active.svelte-19aka9s{color:#d91b42;border-bottom:2px solid #d91b42;padding-bottom:8px }
+
+/*# sourceMappingURL=bundle.css.map */
